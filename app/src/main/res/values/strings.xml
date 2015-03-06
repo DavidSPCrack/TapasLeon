@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TapasLeon</string>
+    <string name="toast">Added bar %1$s located in %2$s</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="save">SAVE</string>
+    <string name="title_activity_list_bares">ListBares</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
