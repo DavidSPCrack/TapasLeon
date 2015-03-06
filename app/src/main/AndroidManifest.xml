@@ -28,10 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ListBares"
-            android:label="@string/title_activity_list_bares" >
-        </activity>
+
     </application>
 
 </manifest>
