@@ -10,5 +10,9 @@
     <string name="title_activity_list_bares">ListBares</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="no_bares">There\'s no bars</string>
+    <string name="title_activity_consulta_bar">ConsultaBar</string>
+    <string name="name_label">Name:</string>
+    <string name="address_label">Address:</string>
 
 </resources>
